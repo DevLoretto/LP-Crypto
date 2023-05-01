@@ -144,15 +144,15 @@ body{
 }
 
 #benefit-1{
-    background-image: url("primorico.jpg");
+    background-image: url("./assets/primorico.jpg");
 }
 
 #benefit-2{
-    background-image: url("youtuber-daniel-fraga-gravou-video-bitcoin-seja-louvado.jpg");
+    background-image: url("./assets/youtuber-daniel-fraga-gravou-video-bitcoin-seja-louvado.jpg");
 }
 
 #benefit-3{
-    background-image: url("diego-aguiar-1.jpg");
+    background-image: url("./assets/diego-aguiar-1.jpg");
 }
 /*Event location*/
 
